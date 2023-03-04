@@ -1,5 +1,9 @@
 # 2023 UMD Info Challenge Data Analytics Project
-This project identifies and compared trends related to student diversity in Global Classrooms and in the University of Maryland College Park by focusing on data related to the student body's race, gender, major, and college.   
+This team project identifies and compared trends related to student diversity in Global Classrooms and in the University of Maryland College Park by focusing on data related to the student body's race, gender, major, and college.   
+
+## Team Members 
+- Christine W.
+- Anthony A.
 
 ## Data Used
 Data for the Global Classrooms is provided by the Office of International Affairs and is sourced from the Global Classrooms' database. It includes information related to the students':
