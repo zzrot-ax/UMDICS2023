@@ -1,1 +1,1 @@
-# UMDICS2023
+# 2023 UMD Info Challenge Data Analytics Project
